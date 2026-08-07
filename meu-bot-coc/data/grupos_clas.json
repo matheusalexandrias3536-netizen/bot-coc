@@ -1,0 +1,11 @@
+{
+    "grp@g.us": {
+        "#ABC123": {
+            "apelido": "meucla",
+            "guerra_on": false,
+            "avisos_auto": false,
+            "aviso_cwl_detalhado": false,
+            "nome": "MeuCla"
+        }
+    }
+}
